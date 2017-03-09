@@ -1,0 +1,23 @@
+{
+  "name": "scss-harness-adapter",
+  "version": "1.0.0",
+  "description": "Test the functionality of rails-harness-adapter using different versions of software.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taystack/scss-harness-adapter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taystack/scss-harness-adapter/issues"
+  },
+  "homepage": "https://github.com/taystack/scss-harness-adapter#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "node-sass": "^4.5.0"
+  }
+}
